@@ -741,6 +741,32 @@
         ],
         "async": false
       }
+    },
+    "(app-client)/./app/components/Container.tsx": {
+      "*": {
+        "id": "(sc_client)/./app/components/Container.tsx",
+        "name": "*",
+        "chunks": [
+          "app/layout:static/chunks/app/layout.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./app/components/Container.tsx",
+        "name": "",
+        "chunks": [
+          "app/layout:static/chunks/app/layout.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./app/components/Container.tsx",
+        "name": "default",
+        "chunks": [
+          "app/layout:static/chunks/app/layout.js"
+        ],
+        "async": false
+      }
     }
   },
   "edgeSSRModuleMapping": {},
@@ -2459,6 +2485,30 @@
       "chunks": [
         "static/css/app/layout.css"
       ]
+    },
+    "/Users/yashteemul/Documents/GitHub/airBNB/airbnb-clone/app/components/Container.tsx": {
+      "id": "(app-client)/./app/components/Container.tsx",
+      "name": "*",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/yashteemul/Documents/GitHub/airBNB/airbnb-clone/app/components/Container.tsx#": {
+      "id": "(app-client)/./app/components/Container.tsx",
+      "name": "",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/Users/yashteemul/Documents/GitHub/airBNB/airbnb-clone/app/components/Container.tsx#default": {
+      "id": "(app-client)/./app/components/Container.tsx",
+      "name": "default",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
     }
   }
 }
