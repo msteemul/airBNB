@@ -7,6 +7,9 @@ const Navbar = () => {
             className="py-4 border-b-[1px] "
             >
                 <Container>
+                    <div
+                    className="flex items-center justify-between"
+                    ></div>
                     
                 </Container>
 
