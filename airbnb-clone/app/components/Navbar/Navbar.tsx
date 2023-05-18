@@ -1,6 +1,8 @@
+'use client';
 import Container from "../Container"
 import Search from "./Search"
 import Logo from "./global"
+import UserMenu from "./UserMenu"
 
 const Navbar = () => {
     return(
@@ -14,6 +16,7 @@ const Navbar = () => {
                     >
                         <Logo />
                         <Search />
+                        <UserMenu />
                     </div>
                     
                 </Container>
